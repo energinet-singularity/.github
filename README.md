@@ -1,1 +1,1 @@
-# .github
+# This is .github repo for Singularity.
